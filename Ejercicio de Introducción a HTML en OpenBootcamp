@@ -1,0 +1,46 @@
+<!doctype html>
+
+<html>
+
+<head>
+<title> mi primer proyecto en html</title> </head>
+
+<body> 
+
+<div>
+<h3>Aprendiendo a documentar mi código con OpenBootcamp</h3></div>
+
+<p> este es mi primer comentario entre dos lineas </p>
+ <div>se aprende rapido con OpenBootcamp </div>
+
+
+<a href="https://m.youtube.com/results?sp=mAEA&search_query=bad+bunny"> bad buny </a>
+
+<div>
+<a href="https://m.youtube.com/results?search_query=Yiruma"> yiurma </a>
+</div>
+
+<div> 
+<a href="https://m.youtube.com/results?sp=mAEA&search_query=imagine+dragons"> imagine dragons </a>
+</div>
+
+<div>
+  <h3> lista </h3>
+</div>
+<h4> lista ordenada </h4>
+<ol> 
+<li> elemento 1</li> 
+<li> elemento 2</li>
+<li> elemento 3</li>
+</ol>
+<div>
+<h4> lista desordenada </h4>
+<ul>
+<li> elemento 2 </li>
+<li> elemento 1 </li>
+<li> elemento 3 </li>
+</ul>
+</div>
+
+</body>
+</html>
